@@ -1,2 +1,2 @@
 #!/bin/bash
-sed -n '1p' iacta
+tr -n '1p' iacta
